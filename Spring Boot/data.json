@@ -1,0 +1,300 @@
+[{
+	"name":"Chicago Thanksgiving Parade",
+	"date":"November 28, 2024",
+	"description":"The Chicago Thanksgiving Parade Celebrates 89 Years of Entertaining Families Across the City and Country with Marching Bands, Giant Balloons, Festive Floats, Staged Performances and Equestrian Units, All Led by Celebrity Co-Hosts Jen Lilley and Jesse Hutch",
+	"url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.choosechicago.com%2Fblog%2Fspecial-events%2Fchicago-thanksgiving-day-parade%2F&psig=AOvVaw2994cWa02UzTL59XbVGUqo&ust=1713233982523000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNiG-oeUw4UDFQAAAAAdAAAAABAE",	
+	"upcoming":"false",
+	"parade":[{ "id":"1",
+		"name": "Chicago High School Marching Band",
+        "description":
+            "The City High School Marching Band showcases their musical talents with a lively performance featuring classic tunes and intricate formations.",
+        "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.choosechicago.com%2Fblog%2Fspecial-events%2Fchicago-thanksgiving-day-parade%2F&psig=AOvVaw2994cWa02UzTL59XbVGUqo&ust=1713233982523000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNiG-oeUw4UDFQAAAAAdAAAAABAE",
+        "country": "United States",
+        "performers": "City High School students",
+        "props": "Marching band instruments",
+        "messages": "Celebrate the spirit of music and teamwork!"
+      },
+      {
+        "id": "2",
+        "name": "Local Dance Academy",
+        "description":
+            "The Local Dance Academy dazzles the crowd with a colorful and energetic dance routine, featuring dancers of all ages and styles.",
+        "imageUrl": "https://example.com/image2.jpg",
+        "country": "United States",
+        "performers": "Local Dance Academy students",
+        "props": "Colorful costumes",
+        "messages": "Expressing joy and creativity through dance!"
+      },
+      {
+        "id": "3",
+        "name": "Community Float: 'Harvest of Hope",
+        "description":"The 'Harvest of Hope' float represents the spirit of gratitude and community, adorned with bountiful decorations, fall foliage, and messages of thanks.",
+        "imageUrl": "https://example.com/image3.jpg",
+        "country": "United States",
+        "performers": "Local residents",
+        "props": "Fall-themed decorations",
+        "messages": "Expressing gratitude for our community's support!"
+      },
+      {
+        "id": "4",
+        "name": "City Fire Department Honor Guard",
+        "description":
+            "The City Fire Department Honor Guard leads the parade with dignity and respect, paying tribute to the brave men and women who serve and protect the community.",
+        "imageUrl": "https://example.com/image4.jpg",
+        "country": "United States",
+        "performers": "City Fire Department personnel",
+        "props": "Uniforms",
+        "messages": "Honoring our local heroes and first responders!"
+      },
+      {
+        "id": "5",
+        "name": "Local Charity",
+        "description":
+            "Representatives from the 'Feeding Families' charity walk alongside their float, raising awareness for hunger relief efforts in the community and collecting donations.",
+        "imageUrl": "https://example.com/image5.jpg",
+        "country": "United States",
+        "performers": "Charity representatives",
+        "props": "Float with banners and donation boxes",
+        "messages": "Join us in the fight against hunger! Donate today!"
+	}]
+},
+  {
+    "name":"Argyle Street Lunar New Year Parade",
+    "date": "February 17, 2024",
+    "description":"Join Uptown United and the local business, non-profit, and cultural organizations on Argyle Street in 2024 as we continue the annual tradition going back 40+ years of celebrating the Lunar New Year along the Argyle commercial corridor in Uptown! To welcome the Year of the Dragon, we’ll be hosting the Lunar New Year Parade on Saturday February 17th (kick-off at 1:00pm sharp at Argyle & Winthrop) featuring 20+ local community groups, cultural institutions, dancers and performers!  In addition, a number of local organizations are planning pop-ups with family-friendly activities between 10:00am-4:00pm.  Full details below",
+    "url":"https://chambermaster.blob.core.windows.net/images/customers/2719/events/3258/1200x225/Untitled-design-(69).png",
+  	"upcoming":"true",
+  	"parade":[{ "id":"1",
+		"name": "City High School Marching Band",
+        "description":
+            "The City High School Marching Band showcases their musical talents with a lively performance featuring classic tunes and intricate formations.",
+        "imageUrl": "https://example.com/image1.jpg",
+        "country": "United States",
+        "performers": "City High School students",
+        "props": "Marching band instruments",
+        "messages": "Celebrate the spirit of music and teamwork!"
+      },
+      {
+        "id": "2",
+        "name": "Local Dance Academy",
+        "description":
+            "The Local Dance Academy dazzles the crowd with a colorful and energetic dance routine, featuring dancers of all ages and styles.",
+        "imageUrl": "https://example.com/image2.jpg",
+        "country": "United States",
+        "performers": "Local Dance Academy students",
+        "props": "Colorful costumes",
+        "messages": "Expressing joy and creativity through dance!"
+      },
+      {
+        "id": "3",
+        "name": "Community Float: 'Harvest of Hope",
+        "description":"The 'Harvest of Hope' float represents the spirit of gratitude and community, adorned with bountiful decorations, fall foliage, and messages of thanks.",
+        "imageUrl": "https://example.com/image3.jpg",
+        "country": "United States",
+        "performers": "Local residents",
+        "props": "Fall-themed decorations",
+        "messages": "Expressing gratitude for our community's support!"
+      },
+      {
+        "id": "4",
+        "name": "City Fire Department Honor Guard",
+        "description":
+            "The City Fire Department Honor Guard leads the parade with dignity and respect, paying tribute to the brave men and women who serve and protect the community.",
+        "imageUrl": "https://example.com/image4.jpg",
+        "country": "United States",
+        "performers": "City Fire Department personnel",
+        "props": "Uniforms",
+        "messages": "Honoring our local heroes and first responders!"
+      },
+      {
+        "id": "5",
+        "name": "Local Charity",
+        "description":
+            "Representatives from the 'Feeding Families' charity walk alongside their float, raising awareness for hunger relief efforts in the community and collecting donations.",
+        "imageUrl": "https://example.com/image5.jpg",
+        "country": "United States",
+        "performers": "Charity representatives",
+        "props": "Float with banners and donation boxes",
+        "messages": "Join us in the fight against hunger! Donate today!"
+	}]
+  },
+  {
+    "name":"Chinatown Chinese Lunar New Year Parade",
+    "date":"February 18, 2024",
+    "description":"Chinatown Parade: Chinese New Year falls on Saturday, February 10, 2024 (Year of the Dragon, 4722), and the Lunar New Year parade will place on Sunday, February 18, 2024. The parade will begin at 1:00 p.m. at the intersection of 24th Street and Wentworth Avenue and travel north on Wentworth towards the viewing stand at Cermak and Wentworth.Our parade will feature traditional dragon and lion dancing teams, colorful floats, marching bands and marching groups.  Sponsorships are $3,000 or $5,000.  See below.The following year, Chinese New Year will fall on Wednesday, January 29, 2025 (Year of the Snake, 4723), and the parade will be on Sunday, February 9, 2025",
+    "url":"https://ccc-foundation.org/wp-content/uploads/2023/02/cny23-a-164-1536x1025.jpg",
+    "upcoming":"true",
+    "parade":[{ "id":"1",
+		"name": "City High School Marching Band",
+        "description":
+            "The City High School Marching Band showcases their musical talents with a lively performance featuring classic tunes and intricate formations.",
+        "imageUrl": "https://example.com/image1.jpg",
+        "country": "United States",
+        "performers": "City High School students",
+        "props": "Marching band instruments",
+        "messages": "Celebrate the spirit of music and teamwork!"
+      },
+      {
+        "id": "2",
+        "name": "Local Dance Academy",
+        "description":
+            "The Local Dance Academy dazzles the crowd with a colorful and energetic dance routine, featuring dancers of all ages and styles.",
+        "imageUrl": "https://example.com/image2.jpg",
+        "country": "United States",
+        "performers": "Local Dance Academy students",
+        "props": "Colorful costumes",
+        "messages": "Expressing joy and creativity through dance!"
+      },
+      {
+        "id": "3",
+        "name": "Community Float: 'Harvest of Hope",
+        "description":"The 'Harvest of Hope' float represents the spirit of gratitude and community, adorned with bountiful decorations, fall foliage, and messages of thanks.",
+        "imageUrl": "https://example.com/image3.jpg",
+        "country": "United States",
+        "performers": "Local residents",
+        "props": "Fall-themed decorations",
+        "messages": "Expressing gratitude for our community's support!"
+      },
+      {
+        "id": "4",
+        "name": "City Fire Department Honor Guard",
+        "description":
+            "The City Fire Department Honor Guard leads the parade with dignity and respect, paying tribute to the brave men and women who serve and protect the community.",
+        "imageUrl": "https://example.com/image4.jpg",
+        "country": "United States",
+        "performers": "City Fire Department personnel",
+        "props": "Uniforms",
+        "messages": "Honoring our local heroes and first responders!"
+      },
+      {
+        "id": "5",
+        "name": "Local Charity",
+        "description":
+            "Representatives from the 'Feeding Families' charity walk alongside their float, raising awareness for hunger relief efforts in the community and collecting donations.",
+        "imageUrl": "https://example.com/image5.jpg",
+        "country": "United States",
+        "performers": "Charity representatives",
+        "props": "Float with banners and donation boxes",
+        "messages": "Join us in the fight against hunger! Donate today!"
+	}]
+    
+  }, {
+    "name":"St patrick's Day parade",
+    "date":"March 17, 2024",
+    "description":"This is the story of how the South Side Irish St. Patrick’s Parade began. As with many stories told by the Irish, exaggeration is inevitable; however, this story is completely true. The parade was the vision of two best friends, George Hendry and Pat Coakley. Both were raised on the South Side of Chicago, George in the St. Sabina Parish and Pat in the Little Flower parish in the Auburn neighborhood. The two did not meet until their early thirties, when both moved to the Morgan Park community with their young wives. There they became neighbors, best friends and in 1979, co-founders of the South Side Irish Parade.",
+    "url":"https://southsideirishparade.org/wp-content/uploads/2018/01/IMG_0470-1024x683.jpg",
+    "upcoming":"true",
+    "parade":[{ "id":"1",
+		"name": "City High School Marching Band",
+        "description":
+            "The City High School Marching Band showcases their musical talents with a lively performance featuring classic tunes and intricate formations.",
+        "imageUrl": "https://example.com/image1.jpg",
+        "country": "United States",
+        "performers": "City High School students",
+        "props": "Marching band instruments",
+        "messages": "Celebrate the spirit of music and teamwork!"
+      },
+      {
+        "id": "2",
+        "name": "Local Dance Academy",
+        "description":
+            "The Local Dance Academy dazzles the crowd with a colorful and energetic dance routine, featuring dancers of all ages and styles.",
+        "imageUrl": "https://example.com/image2.jpg",
+        "country": "United States",
+        "performers": "Local Dance Academy students",
+        "props": "Colorful costumes",
+        "messages": "Expressing joy and creativity through dance!"
+      },
+      {
+        "id": "3",
+        "name": "Community Float: 'Harvest of Hope",
+        "description":"The 'Harvest of Hope' float represents the spirit of gratitude and community, adorned with bountiful decorations, fall foliage, and messages of thanks.",
+        "imageUrl": "https://example.com/image3.jpg",
+        "country": "United States",
+        "performers": "Local residents",
+        "props": "Fall-themed decorations",
+        "messages": "Expressing gratitude for our community's support!"
+      },
+      {
+        "id": "4",
+        "name": "City Fire Department Honor Guard",
+        "description":
+            "The City Fire Department Honor Guard leads the parade with dignity and respect, paying tribute to the brave men and women who serve and protect the community.",
+        "imageUrl": "https://example.com/image4.jpg",
+        "country": "United States",
+        "performers": "City Fire Department personnel",
+        "props": "Uniforms",
+        "messages": "Honoring our local heroes and first responders!"
+      },
+      {
+        "id": "5",
+        "name": "Local Charity",
+        "description":
+            "Representatives from the 'Feeding Families' charity walk alongside their float, raising awareness for hunger relief efforts in the community and collecting donations.",
+        "imageUrl": "https://example.com/image5.jpg",
+        "country": "United States",
+        "performers": "Charity representatives",
+        "props": "Float with banners and donation boxes",
+        "messages": "Join us in the fight against hunger! Donate today!"
+	}]
+  },{
+    "name":"Greek Heritage Parade",
+    "date":"April 7, 2024",
+    "description":"The first Greeks in Chicago arrived as ship captains in the 1840s. They started out as food peddlers and, by natural progression, became restaurant owners. Around the turn of the century, the Greeks concen-trated around the Harrison, Blue Island and Halsted area, originally known as the as Deltaîbut later re-named as Greektown. During the 1960s,Greektown was displaced by the Eisenhower Expressway and the University of Illinois at Chicago, forcing a move north a few blocks.In 1968, gyros and saganaki (flaming cheese) were introduced in this country by Chicago’s Greektown. From 1970 to 1990, most of the current restaurants and businesses opened, and the Taste of Greece summer festival became a tradition. In 1996,with the Democratic National Convention coming to town, the city of Chicago recognized Greektown’s contribution to the city by pouring millions of dollars into street renovations and erecting traditional Greek temples and pavilions at the major intersections in Greektown.",
+    "url":"https://greektownchicago.org/wp-content/uploads/2019/02/parade.jpg",
+    "upcoming":"true",
+    "parade":[{ "id":"1",
+		"name": "City High School Marching Band",
+        "description":
+            "The City High School Marching Band showcases their musical talents with a lively performance featuring classic tunes and intricate formations.",
+        "imageUrl": "https://example.com/image1.jpg",
+        "country": "United States",
+        "performers": "City High School students",
+        "props": "Marching band instruments",
+        "messages": "Celebrate the spirit of music and teamwork!"
+      },
+      {
+        "id": "2",
+        "name": "Local Dance Academy",
+        "description":
+            "The Local Dance Academy dazzles the crowd with a colorful and energetic dance routine, featuring dancers of all ages and styles.",
+        "imageUrl": "https://example.com/image2.jpg",
+        "country": "United States",
+        "performers": "Local Dance Academy students",
+        "props": "Colorful costumes",
+        "messages": "Expressing joy and creativity through dance!"
+      },
+      {
+        "id": "3",
+        "name": "Community Float: 'Harvest of Hope",
+        "description":"The 'Harvest of Hope' float represents the spirit of gratitude and community, adorned with bountiful decorations, fall foliage, and messages of thanks.",
+        "imageUrl": "https://example.com/image3.jpg",
+        "country": "United States",
+        "performers": "Local residents",
+        "props": "Fall-themed decorations",
+        "messages": "Expressing gratitude for our community's support!"
+      },
+      {
+        "id": "4",
+        "name": "City Fire Department Honor Guard",
+        "description":
+            "The City Fire Department Honor Guard leads the parade with dignity and respect, paying tribute to the brave men and women who serve and protect the community.",
+        "imageUrl": "https://example.com/image4.jpg",
+        "country": "United States",
+        "performers": "City Fire Department personnel",
+        "props": "Uniforms",
+        "messages": "Honoring our local heroes and first responders!"
+      },
+      {
+        "id": "5",
+        "name": "Local Charity",
+        "description":
+            "Representatives from the 'Feeding Families' charity walk alongside their float, raising awareness for hunger relief efforts in the community and collecting donations.",
+        "imageUrl": "https://example.com/image5.jpg",
+        "country": "United States",
+        "performers": "Charity representatives",
+        "props": "Float with banners and donation boxes",
+        "messages": "Join us in the fight against hunger! Donate today!"
+	}]
+  }
+]
